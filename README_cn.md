@@ -3,7 +3,7 @@
 [English](README.md) | [中文版](README_cn.md)
 
 ## 介绍
-    
+
 
 ## 快速开始
 
@@ -16,6 +16,4 @@
 - 开发者中心：https://developer.tuya.com/cn/
 - 帮助中心: https://support.tuya.com/en/help
 - 技术支持工单中心: https://service.console.tuya.com
-
-## 使用的开源License
 
