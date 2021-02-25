@@ -1,23 +1,21 @@
-# Tuya 嵌入式扫地机 SDK
-
-[English](README.md) | [中文版](README_cn.md)
+# Tuya嵌入式扫地机SDKSDK
 
 ## 介绍
 
-涂鸦扫地机 SDK，借助设备的联网能力，直接与涂鸦 IoT 平台，涂鸦 APP，建立通信链路并进行涂鸦标准数据交互的软件中间件，你可以用此SDK开发接入涂鸦云的扫地机产品。
+涂鸦扫地机 SDK 是指在涂鸦 IoTOS 系统中针对基于Linux系统开发的扫地机设备推出的软件开发包。提供标准 C 语言库文件，头文件以及对应的说明文档。
+
+## 下载中心
+
+### 标准Linux版本
+
+- stable：4.3.0
+
+- version info: iot_release_note.txt
+
+## 快速上手
+
+* **[涂鸦开发者平台创建产品](https://developer.tuya.com/cn/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe)**获取 PID 信息 
+* **[如何获取UUID & AUTHKEY信息](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is-uuid-authkey)**
 
 
-
-
-## 快速开始
-
-[开发手册]
-
-## 案例参考
-
-## 如何获得技术支持
-
-- 开发者中心：https://developer.tuya.com/cn/
-- 帮助中心: https://support.tuya.com/en/help
-- 技术支持工单中心: https://service.console.tuya.com
-
+## 技术支持
