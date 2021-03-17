@@ -4,7 +4,7 @@
 
 ## Overview
 
-Tuya Sweeper SDK is a software development kit for sweepers based on Tuya IoTOS system. The SDK encapsulates the communication between the device, the Tuya IoT Platform, and Tuya apps, as well as the required APIs for the sweepers. You do not need to care about the implementation of the communication layer, but focus on the development.
+Tuya Sweeper SDK is a software development kit for sweepers based on the Tuya IoTOS system. The SDK encapsulates the communication between the device, the Tuya IoT Platform, and Tuya apps, as well as the required APIs for the sweepers. You do not need to care about the implementation of the communication layer, but focus on the development.
 
 * Support pairing through Wi-Fi or Bluetooth.
 * Provide standard C language library, header files, and documentation.
@@ -13,7 +13,7 @@ Tuya Sweeper SDK is a software development kit for sweepers based on Tuya IoTOS 
 
 ## Get started
 
-Download the SDK from the repository directory **Library/<SDK version>** according to the tool chain. If there is no SDK for the required platform in this directory, please provide the tool chain for Tuya customer service or submit a technical ticket. Tuya will upload the required SDK timely.
+Download the SDK from the repository directory **Library/<SDK version>** according to the toolchain. If there is no SDK for the required platform in this directory, please provide the toolchain for Tuya customer service or submit a technical ticket. Tuya will upload the required SDK timely.
 
 
 ## SDK directory
